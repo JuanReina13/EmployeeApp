@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeappApplication<employeeapp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "edu.uptc.swi.employeeapp.EmployeeappApplication",
+            "projectName": "employeeapp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
